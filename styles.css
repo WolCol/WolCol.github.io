@@ -111,7 +111,6 @@ header{
 
 .feature-block-item{
     width: 23%;
-    height: max-content;
     text-align: center;
     margin-right: auto;
     background-color: var(--container-color2);
